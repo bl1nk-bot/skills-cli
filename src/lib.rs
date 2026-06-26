@@ -30,7 +30,7 @@ pub use errors::{BlinkError, Result};
 ///
 /// # Example
 /// ```ignore
-/// use blink_nexus::{SequentialExecutor, ConfigManager};
+/// use bl1nk_cli::{SequentialExecutor, ConfigManager};
 ///
 /// #[tokio::main]
 /// async fn main() -> Result<()> {
