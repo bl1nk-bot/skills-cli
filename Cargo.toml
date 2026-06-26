@@ -3,7 +3,7 @@ name = "bl1nk-cli"
 version = "0.1.0"
 edition = "2021"
 description = "Bl1nk CLI - Project initialization and universal agent skill installer"
-authors = ["Your Name <you@example.com>"]
+authors = ["billlzzz18 <billlzzz1808@gmail.com>"]
 license = "MIT"
 
 [dependencies]
