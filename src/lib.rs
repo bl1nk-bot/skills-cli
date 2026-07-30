@@ -39,4 +39,3 @@ pub use errors::{BlinkError, Result};
 ///     executor.execute("Build a REST API", None).await?;
 ///     Ok(())
 /// }
-/// ```
